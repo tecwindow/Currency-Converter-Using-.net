@@ -1,0 +1,21 @@
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\bin\Debug\CurrencyConverter.xml
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\obj\Debug\CurrencyConverter.Resources.resources
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\obj\Debug\CurrencyConverter.vbproj.GenerateResource.Cache
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\obj\Debug\CurrencyConverter.xml
+C:\Users\mahmoud\AppData\Local\Temporary Projects\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.xml
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.xml
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Resources.resources
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.vbproj.GenerateResource.Cache
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.CurrencyConverter.resources
